@@ -23,7 +23,9 @@
        } 
 */
  /* styles for index.html---> */
-
+ .site-contacts .contacts.currant{
+    color: var(--accent-color);
+}
 .hero {
     background: var(--background-color);
     text-align: center;
